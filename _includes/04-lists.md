@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+Interests:
+<ul>
+  <li>Data Analysis & Visualizations</li>
+  <li>Python</li>
+  <li>Machine Learning</li>
+  <li>UI/UX Research</li>
+</ul>
